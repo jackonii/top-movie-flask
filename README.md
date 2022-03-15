@@ -1,2 +1,2 @@
 # top-movie-flask
-Top movie web app by Flask
+Top movies web app by Flask
